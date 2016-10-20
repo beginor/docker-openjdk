@@ -1,0 +1,1 @@
+docker build -t beginor/openjdk:8 .
