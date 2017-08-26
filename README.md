@@ -1,3 +1,3 @@
 # OpenJDK 8 for docker
 
-OpenJDK 8 for docker, based on ubuntu:16.04.
+OpenJDK 8 for docker, based on `beginor/ubuntu-china:16.04`.
